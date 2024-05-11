@@ -1,2 +1,2 @@
 #Tutoriel
-Ceci est un tutorile poir la chainecgc
+Ceci est un tutoriel pour la chaine
